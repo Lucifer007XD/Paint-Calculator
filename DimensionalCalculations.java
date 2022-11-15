@@ -1,4 +1,4 @@
-package paintCalculatorModel;
+
 
 public class DimensionalCalculations {
 	    // Width

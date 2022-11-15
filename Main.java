@@ -1,4 +1,4 @@
-package paintCalculatorModel;
+
 
 import java.io.*;
 

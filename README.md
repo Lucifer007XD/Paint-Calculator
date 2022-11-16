@@ -17,7 +17,7 @@ Assumtions:
 6> Assuming the Room is Cube or Cuboid so the number of the wall will be 4.
 
 Testing:
-1> testing is done for DimensionalCalculations Class which calculates Volume,Area,Floor by get parameters like Height,Width and length and also for the IllegalArgumentException.
+1> testing is done for DimensionalCalculations Class which calculates Volume,Area,Floor by get parameters like Height,Width and length and also for the IllegalArgumentException.USing Junit library.
 
 Exception:
 There are two Exceptions:
@@ -27,4 +27,6 @@ There are two Exceptions:
 Exception Handelling:
 Try and Catch is used in main class to handel the given Exceptions.
 
-
+Libraries imported:
+1>java.io
+2>junit
